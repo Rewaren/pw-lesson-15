@@ -7,10 +7,10 @@ test('has title', async ({ page }) => {
   await expect(page).toHaveTitle(/Playwright/);
 });
 
-test.only('get started link', async ({ page }) => {
+test('get started link', async ({ page }) => {
   await page.goto('https://playwright.dev/');
-
   await expect(page.getByRole('link', {name: 'Star microsoft/playwright on' })).toBeVisible();
+  await expect(page.getByRole('img', { name: 'Browsers (Chromium, Firefox,' })).toBeVisible();
 
   // Click the get started link.
   await page.getByRole('link', { name: 'Get started' }).click();
