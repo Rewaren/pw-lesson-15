@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a956b9bd-6ad5-450b-b185-5348e47360b8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/playwright-report/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-results/.last-run.json" afterDir="false" />
+    <list default="true" id="a956b9bd-6ad5-450b-b185-5348e47360b8" name="Changes" comment="checked browser images">
+      <change beforePath="$PROJECT_DIR$/playwright-report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/playwright-report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/example.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tests/example.spec.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,8 +70,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1768123609618</updated>
-      <workItem from="1768123611884" duration="5673000" />
+      <workItem from="1768123611884" duration="8586000" />
     </task>
+    <task id="LOCAL-00001" summary="checked browser images">
+      <option name="closed" value="true" />
+      <created>1768141889067</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768141889067</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,5 +96,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="checked browser images" />
+    <option name="LAST_COMMIT_MESSAGE" value="checked browser images" />
   </component>
 </project>
